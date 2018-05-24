@@ -3,6 +3,7 @@
 基于HBuilder h5+ vue-cli 多页面开发
 开发时可使用npm run dev实时打包输出至dist目录，dist目录拉到hbuilder中真机运行，即可实时预览效果
 
+``` bash
 ├── build
 │   ├── build.js
 │   ├── check-versions.js
@@ -32,6 +33,7 @@
 │                └── login.html
 └── manifest.json
 └── package.json
+```
 
 ## 模板文档
 [使用文档](https://github.com/aOrz/vue-template-for-hbuilder/edit/master/README.md)
