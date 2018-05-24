@@ -1,6 +1,8 @@
 # my-project
 
-> A Vue.js project
+基于HBuilder h5+ vue 多页面框架
+开发时可使用npm run dev实时打包输出至dist目录，dist目录拉到hbuilder中真机运行，即可实时预览效果
+
 ## 模板文档
 [使用文档](https://github.com/aOrz/vue-template-for-hbuilder/edit/master/README.md)
 ## Build Setup
@@ -15,7 +17,7 @@ npm run dev
 # serve with hot reload at localhost:8080
 npm run webdev
 
-# build for production with minification
+# 打包
 npm run build
 
 # build for production and view the bundle analyzer report
